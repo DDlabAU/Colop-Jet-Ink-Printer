@@ -6,6 +6,7 @@
 - [Templates](#templates)
 - [Guide to Templates](#guide-to-templates)
 - [Brugsanvisning](#brugsanvisning)
+  -[Materialer](#materialer)
 
 ## Printer Overview
 
@@ -34,3 +35,8 @@ Maskinen er meget simpel, dog er der nogle aspekter man SKAL overholde:
 - Pres ikke for hårdt og bevæg printeren langsomt for at få det bedste resultat.
 
 Inden brug, kan der være behov for at gøre printerhovedet ren - strejf blæk-udløsningsmekanismen med et stykke fugtig papir eller klud (følg retningen). 
+
+
+### Materialer
+
+Colop e-mark bruger inkjet-teknologi med en tre-farvet (CMY) blækpatron, så den kan printe direkte på de fleste absorberende overflader, fx **papir**, **karton**, ubehandlet **træ**, **kork** og **stof**.
