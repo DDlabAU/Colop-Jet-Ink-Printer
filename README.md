@@ -6,7 +6,7 @@
 - [Templates](#templates)
 - [Guide to Templates](#guide-to-templates)
 - [Brugsanvisning](#brugsanvisning)
-  -[Materialer](#materialer)
+  - [Materialer](#materialer)
 
 ## Printer Overview
 
