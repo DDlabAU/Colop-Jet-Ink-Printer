@@ -29,12 +29,18 @@ Printeren ser sådan ud:
 
 ## Brugsanvisning
 
-Maskinen er meget simpel, dog er der nogle aspekter man SKAL overholde:
+Start med at downloade appen. Når du åbner den, bliver du bedt om at indtaste SSID og password. Det er printerens netværksoplysninger, som du finder på siden af trækassen, hvor printeren ligger.
+Når det er indtastet, er forbindelsen oprettet.
+Printeren mister desværre hurtigt strøm, så den skal ofte oplades, før den kan bruges. Den kan oplade både når den er tændt og slukket.
+
+#### Vigtigt
+
+Maskinen er meget simpel i brug, dog er der et par ting man SKAL overholde:
 
 - Sæt printeren straks tilbage ind i docken når den ikke er i brug!
 - Pres ikke for hårdt og bevæg printeren langsomt for at få det bedste resultat.
 
-Inden brug, kan der være behov for at gøre printerhovedet ren - strejf blæk-udløsningsmekanismen med et stykke fugtig papir eller klud (følg retningen). 
+Inden brug, kan der være behov for at gøre printerhovedet ren - strejf blæk-udløsningsmekanismen med et stykke fugtig papir eller klud (følg retningen). Alternativt, er der en "quick-cleaning" funktion inde i appen (settings -> e-mark device).
 
 
 ### Materialer
